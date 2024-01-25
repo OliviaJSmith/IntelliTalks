@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="wwwroot/css/site.css" asp-append-version="true" />
+    <script src="./main.js"></script>
 </head>
 <body>
     <header>
@@ -19,14 +20,11 @@
                 <a href="https://forms.office.com/r/wjejJrSCLT" target="_blank">Sign up to speak here!</a>
             </div>
             <div class="grid-container">
-                <div class="p-3 text-center">
-                    <div class="card shadow-lg">
-                        <div>
-                            <img class="speaker" src="https://intellitect.com/wp-content/uploads/2021/10/Mikella-SWR-300x300-1.jpg" />
-                        </div>
-                        <div class="card-body">Mikaella will be talking about Krav Maga! </div>
-                    </div>
-                </div>
+                <speaker-card
+                    talk-title="Krav Maga"
+                    speaker-name="Mikaella"
+                    speaker-image-url="https://intellitect.com/wp-content/uploads/2021/10/Mikella-SWR-300x300-1.jpg"
+                ></speaker-card>
             </div>
 
         </main>
