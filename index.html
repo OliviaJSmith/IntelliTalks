@@ -16,10 +16,10 @@
         <main role="main" class="pb-3">
             <div class="text-center pt-4">
                 <h1 class="display-4 text-white">IntelliTEDx</h1>
-                    <p class="text-white">Get ready to be inspired Thursday February 8th 4:00-6:00pm at the Intellitect Office</p>
+                <p class="text-white">Get ready to be inspired Thursday February 8th 4:00-6:00pm at the Intellitect Office</p>
                 <button class="btn btn-light"><a href="https://forms.office.com/r/wjejJrSCLT" target="_blank">Sign up to speak here!</a></button>
             </div>
-            <div class="grid-container" id="speakers-container"></div>
+            <div class="d-flex justify-content-center flex-wrap pt-3" id="speakers-container"></div>
         </main>
     </div>
 
@@ -32,5 +32,33 @@
     <script src="wwwroot/lib/jquery/dist/jquery.min.js"></script>
     <script src="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="wwwroot/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+    <script>
+        document.addEventListener("click", shoot);
+        var defaults = {
+            spread: 360,
+            ticks: 50,
+            gravity: 0,
+            decay: 0.94,
+            startVelocity: 30,
+            colors: ['FFE400', 'FFBD00', 'E89400', 'FFCA6C', 'FDFFB8']
+        };
+
+        function shoot() {
+            confetti({
+                defaults,
+                particleCount: 40,
+                scalar: 1.2,
+                shapes: ['star']
+            });
+
+           confetti({
+               defaults,
+               particleCount: 10,
+               scalar: 0.75,
+               shapes: ['circle']
+           });
+        }        
+    </script>
 </body>
 </html>
