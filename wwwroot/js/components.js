@@ -11,9 +11,11 @@ class SpeakerCard extends HTMLElement {
         <div class="p-3 text-center">
             <div class="card shadow-lg">
                 <div>
-                    <img class="speaker" src="${this.speakerImageUrl}" />
+                  <img class="speaker" src="${this.speakerImageUrl}" />
                 </div>
-                <div class="card-body">${this.speakerName} will be talking about ${this.talkTitle}! </div>
+                <div class="card-body">
+                  <span class="fw-bold">${this.speakerName}</span> will be talking about <span class="fw-bold">${this.talkTitle}</span>!
+                </div>
             </div>
         </div>
         `;
