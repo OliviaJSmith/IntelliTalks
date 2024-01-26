@@ -1,8 +1,28 @@
 [
     {
-        "talkTitle": "Krav Maga",
+        "talkTitle": "Krav Ma-what???",
         "speakerName": "Mikaella",
         "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Mikella-SWR-300x300-1.jpg"
+    },
+    {
+        "talkTitle": "Risk and Recreation",
+        "speakerName": "Olivia",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2022/07/olivia_smith_square_web-1.jpg"
+    },
+    {
+        "talkTitle": "Looking for Hope in a Hopeless World",
+        "speakerName": "Reese",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Reese-SWR-300x300-1.jpg"
+    },
+    {
+        "talkTitle": "Life Lessons from a Cat",
+        "speakerName": "Meg",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/08/Meg-SWR-300x300-1.jpg"
+    },
+    {
+        "talkTitle": "Being a Musician & Changing Careers",
+        "speakerName": "Skyler",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/skyler_johnson_square_web.jpg"
     },
     {
         "talkTitle": "Life Lessons Learned from the Cars I've Owned",
