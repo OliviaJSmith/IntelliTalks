@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/IntelliTEDx/config
+/.vs/IntelliTEDx/FileContentIndex
+/.vs/IntelliTEDx/v17
+/.vs
