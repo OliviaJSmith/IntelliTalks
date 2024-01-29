@@ -41,3 +41,7 @@ body {
     height: 10rem;
     padding: 1rem;
 }
+
+speaker-card {
+    width: 25%;
+}
