@@ -34,14 +34,29 @@
         "speakerName": "Ray",
         "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/RaySWR-300x300-1.jpg"
     },
-  {
-    "talkTitle": "Life Lessons Learned from the Cars I've Owned",
-    "speakerName": "Joe",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Joseph-SWR-300x300jpg.jpg"
-  },
-  {
-    "talkTitle": "Plastic! What do we do about it?",
-    "speakerName": "Kelsey + Olivia",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Kelsey-SWR-300x3001-1.jpg"
-  }
+    {
+        "talkTitle": "Life Lessons Learned from the Cars I've Owned",
+        "speakerName": "Joe",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Joseph-SWR-300x300jpg.jpg"
+    },
+    {
+        "talkTitle": "Plastic! What do we do about it?",
+        "speakerName": "Kelsey + Olivia",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Kelsey-SWR-300x3001-1.jpg"
+    },
+    {
+        "talkTitle": "Thrifting is a Lifestyle",
+        "speakerName": "Wendy",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2022/03/Wendy-SWR-300x300-1.jpg"
+    },
+    {
+        "talkTitle": "TBD",
+        "speakerName": "Mark",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2010/03/Mark-SWR.jpg"
+    },
+    {
+        "talkTitle": "Miles and Cents",
+        "speakerName": "Grant",
+        "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2015/01/Grant-SWR-1.jpg"
+    }
 ]
