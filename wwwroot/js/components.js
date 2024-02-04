@@ -18,7 +18,7 @@ class SpeakerCard extends HTMLElement {
                 <div class="card-body">
                   <span class="fw-bold">${this.speakerName}</span> will be talking about <span class="fw-bold">${this.talkTitle}</span>!
                 </div>
-                <div class="card-footer">Talk Time: ${this.time} pm</div>
+                <div class="card-footer">Talk Time: ${this.time}</div>
             </div>
         </div>
         `;
