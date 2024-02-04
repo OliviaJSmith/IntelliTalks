@@ -4,6 +4,8 @@ class SpeakerCard extends HTMLElement {
     this.talkTitle = null;
     this.speakerImageUrl = null;
     this.speakerName = null;
+    this.time = null;
+    this.bio = null;
   }
 
   connectedCallback() {
@@ -16,13 +18,14 @@ class SpeakerCard extends HTMLElement {
                 <div class="card-body">
                   <span class="fw-bold">${this.speakerName}</span> will be talking about <span class="fw-bold">${this.talkTitle}</span>!
                 </div>
+                <div class="card-footer">Talk Time: ${this.time}</div>
             </div>
         </div>
         `;
   }
 
   static get observedAttributes() {
-    return ["speaker-name", "speaker-image-url", "talk-title"];
+    return ["speaker-name", "speaker-image-url", "talk-title", "time", "bio"];
   }
 
   attributeChangedCallback(property, oldValue, newValue) {

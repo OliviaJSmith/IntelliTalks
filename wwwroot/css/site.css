@@ -20,6 +20,10 @@ html {
 body {
     margin-bottom: 60px;
     background-image: url("../assets/fun-space-bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;    
 }
 
 .footer {
@@ -30,12 +34,6 @@ body {
     line-height: 60px;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    margin-top: 2rem;
-}
-
 .speaker {
     width: 10rem;
     height: 10rem;
@@ -43,5 +41,5 @@ body {
 }
 
 speaker-card {
-    max-width: 25rem;
+    width: 100%;
 }
