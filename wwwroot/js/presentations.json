@@ -51,17 +51,10 @@
   {
     "talkTitle": "TBD",
     "speakerName": "Jake",
-    "speakerImage": "https://intellitect.com/wp-content/uploads/2021/10/Jake-SWR-300x300-1.jpg",
+    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Jake-SWR-300x300-1.jpg",
     "time": "4:55 pm",
     "bio": ""
-  },
-  {
-    "talkTitle": "~ Intermission ~",
-    "speakerName": "",
-    "speakerImageUrl": "",
-    "time": "5:00 pm",
-    "bio": ""
-  },
+  },  
   {
     "talkTitle": "Three Social Ties",
     "speakerName": "Ray",
