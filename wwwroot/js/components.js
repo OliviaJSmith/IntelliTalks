@@ -10,7 +10,7 @@ class SpeakerCard extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-        <div class="p-3 text-center">
+        <div class="mx-auto p-3 text-center" style="max-width: min(600px, 100%);">
             <div class="card shadow-lg">
                 <div>
                   <img class="speaker" src="${this.speakerImageUrl}" />
