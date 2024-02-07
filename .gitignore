@@ -6,3 +6,6 @@
 /.vs/IntelliTEDx/FileContentIndex
 /.vs/IntelliTEDx/v17
 /.vs
+
+# Custom
+.DS_Store

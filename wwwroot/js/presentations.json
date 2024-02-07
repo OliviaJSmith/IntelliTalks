@@ -21,14 +21,14 @@
     "bio": ""
   },
   {
-    "talkTitle": "Insights Gained from a Lifetime of Barbeque",
+    "talkTitle": "Insights Gained from a Lifetime of BBQ",
     "speakerName": "Phil",
     "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2015/01/Phil-SWR.jpg",
     "time": "4:30 pm",
     "bio": ""
   },
   {
-    "talkTitle": "Life Lessons Learned from the Cars I've Owned",
+    "talkTitle": "Lessons Learned from the Cars I've Owned",
     "speakerName": "Joe",
     "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Joseph-SWR-300x300jpg.jpg",
     "time": "4:35 pm",
@@ -42,10 +42,17 @@
     "bio": ""
   },
   {
+    "talkTitle": "Shockingly Simple Math",
+    "speakerName": "Allen",
+    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Kelsey-SWR-300x3001-1.jpg",
+    "time": "4:50 pm",
+    "bio": ""
+  },
+  {
     "talkTitle": "TBD",
     "speakerName": "Jake",
     "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Jake-SWR-300x300-1.jpg",
-    "time": "4:50 pm",
+    "time": "4:55 pm",
     "bio": ""
   },  
   {
