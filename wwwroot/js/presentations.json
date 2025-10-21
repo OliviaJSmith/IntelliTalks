@@ -1,108 +1,39 @@
 [
   {
-    "talkTitle": "Life Lessons from a Cat",
-    "speakerName": "Meg",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/08/Meg-SWR-300x300-1.jpg",
-    "time": "4:10 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Krav Ma-what???",
-    "speakerName": "Mikaella",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Mikella-SWR-300x300-1.jpg",
-    "time": "4:20 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "How to be Inspired Alone",
-    "speakerName": "Dan",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Dan-SWR-300x300-1.jpg",
-    "time": "4:25 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Insights Gained from a Lifetime of BBQ",
-    "speakerName": "Phil",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2015/01/Phil-SWR.jpg",
-    "time": "4:30 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Lessons Learned from the Cars I've Owned",
-    "speakerName": "Joe",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Joseph-SWR-300x300jpg.jpg",
-    "time": "4:35 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Plastic! What do we do about it?",
-    "speakerName": "Kelsey + Olivia",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Kelsey-SWR-300x3001-1.jpg",
-    "time": "4:40 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Time",
-    "speakerName": "Clayton",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Clayton-SWR-300x300-1.jpg",
-    "time": "4:50 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "How to be a Feral Cat",
-    "speakerName": "Jake",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Jake-SWR-300x300-1.jpg",
-    "time": "4:55 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Intermission",
-    "speakerName": "Intermission",
-    "speakerImageUrl": "/wwwroot/assets/IntellitedxLogo.png",
-    "time": "5:00 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Three Social Ties",
-    "speakerName": "Ray",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/RaySWR-300x300-1.jpg",
-    "time": "5:10 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Miles and Cents",
-    "speakerName": "Grant",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2015/01/Grant-SWR-1.jpg",
-    "time": "5:20 pm",
-    "bio": ""
-  },
-  {
-    "talkTitle": "Looking for Hope in a Hopeless World",
+    "talkTitle": "What is Kindness",
     "speakerName": "Reese",
     "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Reese-SWR-300x300-1.jpg",
-    "time": "5:25 pm",
-    "bio": ""
+    "description": "Introduction and explaining the theme of \"Cultivating an Atmosphere of Kindness\""
   },
   {
-    "talkTitle": "Thrifting is a Lifestyle",
-    "speakerName": "Wendy",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2022/03/Wendy-SWR-300x300-1.jpg",
-    "time": "5:35 pm",
-    "bio": ""
+    "talkTitle": "Clear is Kind",
+    "speakerName": "Grant",
+    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2015/01/Grant-SWR-1.jpg",
+    "description": "Building on Brené Brown's popularized principle, let's explore how we can each cultivate more clarity in our communication to enhance our kindness. How can we say true things, even hard ones, in ways that are kind?"
   },
   {
-    "talkTitle": "Connectedness",
-    "speakerName": "Mark",
-    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2010/03/Mark-SWR.jpg",
-    "time": "5:40 pm",
-    "bio": ""
+    "talkTitle": "The Brotherhood of the Mountain",
+    "speakerName": "Dan",
+    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Dan-SWR-300x300-1.jpg",
+    "description": "I will be speaking on the Atmosphere of Kindness that I have felt over the past two years during my trips to summit mountains, cross glaciers, and build a relationship with my brother."
   },
   {
-    "talkTitle": "The Joy of Ice Cream Making",
+    "talkTitle": "Bees are neat",
+    "speakerName": "Rob",
+    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2021/10/Rob_McFarland2.png",
+    "description": "My journey from discovering a swarm of honeybees to starting honeylove.org to legalizing beekeeping in LA to writing a book to becoming the grumpy old beekeeper I am today."
+  },
+  {
+    "talkTitle": "How to be kind and win at business",
+    "speakerName": "Phil",
+    "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2015/01/Phil-SWR.jpg",
+    "description": "Basic rules of propriety such the Golden Rule, \"If you can't say anything nice don't say anything at all\" and \"If you can't say it to someone's face you shouldn't be saying it\" apply in a business environment and you can still \"win\" and feel good."
+  },
+  {
+    "talkTitle": "Outro",
     "speakerName": "Olivia",
     "speakerImageUrl": "https://intellitect.com/wp-content/uploads/2022/07/olivia_smith_square_web-1.jpg",
-    "time": "5:50 pm",
-    "bio": ""
+    "description": "Outro and Thank you"
   }
 ]
 

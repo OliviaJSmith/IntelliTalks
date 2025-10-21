@@ -16,16 +16,16 @@ class SpeakerCard extends HTMLElement {
                   <img class="speaker" src="${this.speakerImageUrl}" />
                 </div>
                 <div class="card-body">
-                  <span class="fw-bold">${this.speakerName}</span> will be talking about <span class="fw-bold">${this.talkTitle}</span>!
+                  <span class="fw-bold">${this.speakerName}</span> - <span class="fw-bold">${this.talkTitle}</span>
                 </div>
-                <div class="card-footer">Talk Time: ${this.time}</div>
+                <div class="card-footer">${this.description}</div>
             </div>
         </div>
         `;
   }
 
   static get observedAttributes() {
-    return ["speaker-name", "speaker-image-url", "talk-title", "time", "bio"];
+    return ["speaker-name", "speaker-image-url", "talk-title", "description"];
   }
 
   attributeChangedCallback(property, oldValue, newValue) {
